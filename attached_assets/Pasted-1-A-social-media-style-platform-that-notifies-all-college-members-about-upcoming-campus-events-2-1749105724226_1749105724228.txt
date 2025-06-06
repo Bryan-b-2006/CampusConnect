@@ -1,0 +1,140 @@
+1)A social media-style platform that notifies all college members about upcoming campus events.
+
+2)A login and registration system for all college students, assigning roles and badges to:
+
+Audience (general students)
+
+Club Members
+
+Club Heads and Leads
+
+Teachers (regular faculty and HODs)
+
+3)A separate portal for college administrative staff (like Registrar and Financial Head), allowing them to:
+
+Get notified about events
+
+Approve or reject event proposals
+
+Set specific event rules and provide special instructions
+
+4)A dedicated section for technical staff (auditorium workers, cleaning crew, etc.) so they are notified about events and can carry out their duties accordingly.
+
+5)After logging in, users will see a central event feed that:
+
+Shows posts about upcoming events
+
+Displays full event details
+
+Allows likes and comments
+
+Lets interested students register by submitting their name and required information
+
+6)A separate section for students to access the clubs they’ve joined, where they can:
+
+View discussions
+
+Participate in planning and coordination of new events
+
+7)Technical staff and admin will have access to a dashboard where they can:
+
+View and update the availability of venues
+
+Book venues for events
+
+Manage inventory like speakers, microphones, etc., and check their availability
+
+8)All users (except technical staff and admin) such as club heads and teachers will be able to:
+
+View timetables of different venues (auditorium, halls, etc.)
+
+Check availability of equipment like speakers, mics, etc.
+
+9)Club heads can submit new event requests with the ability to:
+
+Fill out detailed event information
+
+Check availability of venues and equipment
+
+List students in the event management team
+
+Send invitations to teachers to be part of the management team
+
+10)Submitted event requests will be sent to:
+
+Senior faculty (like HODs)
+
+Administrative staff (like Registrar) for approval
+
+11)If the event is approved:
+
+Club head can post the event on the main feed
+
+The event post can also be shared on platforms like Instagram and YouTube
+
+If rejected, the club head will receive a detailed reason for the rejection
+
+12)After the event post is made:
+
+Students can RSVP by filling a short form (as audience)
+
+Participants will fill a separate detailed form
+
+Each registration will generate a unique RSVP number stored in the system
+
+13)Since venue capacity is limited, registrations will be handled on a first-come, first-served basis.
+
+14)Events can be made division-specific, allowing them to be limited to certain groups (e.g., First-Year only).
+
+15)Club heads will be able to:
+
+View registration data for audience and participants
+
+Apply filters and restrictions (e.g., division-only access)
+
+Choose the type of event (audience-only or participation-based)
+
+16)During the event:
+
+Audience will show their RSVP tickets
+
+The event management team will cross-verify this using the database
+
+17)During the event, if the host wishes, they can:
+
+Post a quiz or poll
+
+Make it visible only to those attending the event
+
+18)After the event:
+
+A summary PDF will be generated showing the names and divisions of all attendees
+
+This can be used by the club for internal records (not an automatic attendance system)
+
+19)After the event:
+
+Attendees who RSVP’d will receive a feedback form
+
+Responses will be sent to the club in a proper format for review
+
+20)If quizzes or polls were conducted:
+
+Winners can be congratulated through a featured post on the feed
+
+21)After the event, the club will receive:
+
+Complete analytics covering audience turnout, participation, feedback, etc.
+
+22)There will be three types of event posts:
+
+Pre-event post – Used to announce the event and accept registrations
+
+During-event post – A reminder post made on the day of the event
+
+Post-event post – A summary of the event, with thanks and congratulating winners
+
+23)HODs will have the authority to:
+
+Directly create and manage events on their own without prior approval
+
